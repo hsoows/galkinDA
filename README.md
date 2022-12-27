@@ -22,7 +22,7 @@
 
 в Конкурсе не участвую
 
-Мой лендинг: [Link](https://hsoows.github.io/galkinDA/)
+Мой лендинг: [Landing page](https://hsoows.github.io/galkinDA/)
 
 # ✅ Лабораторная 3
 В качестве третьей лабораторной работы планируется выполнить работу с использованием Сisco Packet Tracer.
